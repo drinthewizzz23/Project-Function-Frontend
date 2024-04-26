@@ -1,7 +1,3 @@
-Sure, here's a README file for your code:
-
----
-
 # Metacrafters ATM - Smart Contract Management Project
 
 ## Overview
